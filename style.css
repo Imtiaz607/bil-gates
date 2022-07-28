@@ -1,0 +1,68 @@
+body{
+    font-family: 'Barlow', sans-serif;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Gulzar', serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Work Sans', sans-serif;
+    background-color: azure;
+    
+}
+.card{
+display: flex;
+background-color: blueviolet;
+margin-left: 200px;
+margin-right: 200px;
+border-radius: 10px;
+padding-left: 10px;
+margin-top: 70px;
+
+}
+.box-1{
+
+margin-left: 10px;
+
+height: 200px;
+border-radius: 30px;
+display: flex;
+
+}
+.bil{
+width: 120px;
+height: 120px;
+border-radius: 100%;
+margin-left: 10px;
+margin-top: 30px;
+margin-right: 10px;
+}
+.box-2{
+   
+}
+.pb{
+font-size: 20px;
+line-height: 40px;
+margin-left: 40px;
+
+
+
+}
+.bg{ 
+margin-left: 40px;
+margin-top: 5px;
+color: brown;
+font-family: barlow;
+font-weight:extra bold 800 ;
+}
+.card-2{
+    
+display: flex;
+background-color:darkcyan;
+margin-left: 200px;
+margin-right: 200px;
+border-radius: 10px;
+padding-left: 10px;
+margin-top: 10px;
+}
